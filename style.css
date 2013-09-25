@@ -67,13 +67,13 @@ div.section {
 
 /* This alters the appearance of the div with id="signup". */
 #signup {
-	background: black;
+	background: #e8f8f8;
 	text-align: center;
 }
 
 /* This alters the appearance of the div with id="whoweare" */
 #whoweare {
-	background: white;
+	background: #e8f8f8;
 	color: black; 
 }
 
